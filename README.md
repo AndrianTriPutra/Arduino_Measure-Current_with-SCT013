@@ -1,4 +1,4 @@
-# Arduino_Measurement-Current_with-SCT013
+# Arduino_Measure-Current_with-SCT013
 in this case I tried to measure current with current sensor SCT013.
 this sensor can measure current from 0 A until 100 A,
 I used microcontroller arduino and lcd 16x2 for display,
