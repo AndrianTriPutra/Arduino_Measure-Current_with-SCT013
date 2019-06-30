@@ -15,8 +15,6 @@ refference:
 
 > https://www.nyebarilmu.com/alternatif-sensor-arus-menggunakan-module-sct-013/
 
-> https://www.anakkendali.com/2019/04/belajar-arduino-cara-kalibrasi-sensor-arus-acs712/
-
 > http://lantaukwcounter.blogspot.com/2013/04/calibrating-sct-019-000.html
 
 > https://learn.openenergymonitor.org/electricity-monitoring/ct-sensors/interface-with-arduino?redirected=true
